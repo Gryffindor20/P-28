@@ -51,7 +51,6 @@ function draw() {
   textSize(25);
   text("Press Space to get a second Chance to Play!!",50 ,50);
   image(boy ,200,340,200,300);
-  text("x: "+ mouseX+" y:"+ mouseY, mouseX, mouseY);
   
 
   treeObj.display();
